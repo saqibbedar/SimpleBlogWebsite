@@ -2,6 +2,9 @@
 
 Welcome to the Simple Blog project! This one-page HTML, CSS, and JavaScript project offer a great opportunity for mastering web development basics. Packed with essential functionalities, it provides hands-on experience with various web development concepts.
 
+![blog](https://github.com/saqibbedar/SimpleBlogWebsite/assets/124094939/89d91719-6174-4c79-90ad-483c71967bc8)
+
+
 ## Why is this project important?
 
 This project is designed to enhance your web development skills by incorporating key features, including onload animations, navigation progress bar on scroll, fixed navbar on scroll, lazy load images, and pre-load animations for each image. Additionally, the project boasts a simple yet visually appealing UI, making it an essential resource for learners.
