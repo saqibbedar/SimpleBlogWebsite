@@ -8,17 +8,17 @@ This project is designed to enhance your web development skills by incorporating
 
 ## Demo
 
-Check out live demo [here](http://saqibbedar.com).
+Check out live demo [here](https://saqibbedar.github.io/SimpleBlogWebsite/).
 
 ## Getting Started
 
 To get started with this project, simply clone this repository:
 
-```bash 
-git clone https://github.com/your-username/your-repository.git 
+```md 
+git clone https://github.com/saqibbedar/SimpleBlogWebsite
 ```
 
-Explore and develop the project further according to your preferences. Feel free to make any changes, as this project is released under the [`MIT license,`]().
+Explore and develop the project further according to your preferences. Feel free to make any changes, as this project is released under the [`MIT license`](https://github.com/saqibbedar/SimpleBlogWebsite?tab=MIT-1-ov-file).
 
 ## Deploy your Project
 
