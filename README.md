@@ -15,10 +15,10 @@ Check out live demo [here](http://saqibbedar.com).
 To get started with this project, simply clone this repository:
 
 ```bash 
-git clone https://github.com/your-username/your-repository.git 
+git clone [https://github.com/your-username/your-repository.git](https://github.com/saqibbedar/SimpleBlogWebsite) 
 ```
 
-Explore and develop the project further according to your preferences. Feel free to make any changes, as this project is released under the [`MIT license,`]().
+Explore and develop the project further according to your preferences. Feel free to make any changes, as this project is released under the [`MIT license`]().
 
 ## Deploy your Project
 
