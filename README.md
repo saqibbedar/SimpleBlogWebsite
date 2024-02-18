@@ -26,4 +26,7 @@ Once you've made enhancements to the project, it's time to deploy it. You can ch
 
 #### Happy coding! 🚀
 
+<h3 align="center" > Wana give a token of thanks or support me!</h3>
+<h3 align="center"><a href="https://www.buymeacoffee.com/saqibbedar">☕ By Me a Coffee </a></h3>
+
 
