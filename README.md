@@ -2,7 +2,7 @@
 
 Welcome to the Simple Blog project! This one-page HTML, CSS, and JavaScript project offer a great opportunity for mastering web development basics. Packed with essential functionalities, it provides hands-on experience with various web development concepts.
 
-![Screenshot 2024-02-18 124615](https://github.com/saqibbedar/SimpleBlogWebsite/assets/124094939/ba6345d0-a347-4c38-b82f-33a84e63d790)
+<div align="center" >![Screenshot 2024-02-18 124615](https://github.com/saqibbedar/SimpleBlogWebsite/assets/124094939/ba6345d0-a347-4c38-b82f-33a84e63d790)</div>
 
 
 ## Why is this project important?
