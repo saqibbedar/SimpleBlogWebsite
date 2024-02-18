@@ -8,7 +8,7 @@ This project is designed to enhance your web development skills by incorporating
 
 ## Demo
 
-Check out live demo [here](http://saqibbedar.com).
+Check out live demo [here](https://saqibbedar.github.io/SimpleBlogWebsite/).
 
 ## Getting Started
 
