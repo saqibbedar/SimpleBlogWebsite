@@ -12,7 +12,7 @@ This project is designed to enhance your web development skills by incorporating
 
 ## Demo
 
-Check out live demo [here](https://saqibbedar.github.io/SimpleBlogWebsite).
+Check out live demo [here](https://simple-blog-website-green.vercel.app).
 
 ## Getting Started
 
