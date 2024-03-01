@@ -1,5 +1,8 @@
+// selectors
 const nav = document.querySelector(".nav");
 const images = document.querySelectorAll("img");
+
+// on mount
 
 images.forEach((image)=>{
     image.classList.add('backgroundAnimation')
@@ -11,8 +14,8 @@ images.forEach((image)=>{
     })
 })
 
-
-window.addEventListener('scroll', ()=>{
+// handlers
+const handleFixNavbar = ()=>{
     const scrolled = window.scrollY;
     nav.style.top = -10+"%"
 
@@ -24,12 +27,16 @@ window.addEventListener('scroll', ()=>{
     else{
         nav.classList.remove("fixed");
     }
-})
+}
 
 const updateProgressBar = ()=>{
     const {scrollTop, scrollHeight} = document.documentElement;
     const scrollPercent = `${(scrollTop / (scrollHeight - window.innerHeight)) * 100}%`;
     nav.style.setProperty('--progress', scrollPercent)
 }
+
+
+// events
+window.addEventListener('scroll', handleFixNavbar);
 
 document.addEventListener('scroll', updateProgressBar);

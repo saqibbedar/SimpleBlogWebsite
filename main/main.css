@@ -103,7 +103,7 @@ section{
     overflow: hidden;
     padding: 12px;
     border-radius: 12px;
-    transition: all .3s ease;
+    position: relative;
 }
 .img-container img{
     background: rgba(128, 128, 128, 0.752);
@@ -113,6 +113,30 @@ section{
     object-position: center;
     border-radius: 12px;
     box-shadow: 0 0 3px rgba(128, 128, 128, 0.752);
+    transition: filter .5s ease;
+}
+.img-container:hover img{
+    filter:brightness(.7);
+}
+.img-description {
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    font-size: 2vw;
+    bottom: 0px;
+    left: 0;
+    padding: 15px;
+    color: white;
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgb(0, 0, 0) 100%);
+    margin: 12px;
+    border-radius: 0 0 12px 12px;
+    backdrop-filter: blur(.5px);
+    transition: visibility .5s ease, opacity .5s ease;
+}
+
+.img-container:hover .img-description{
+    visibility: visible;
+    opacity: 1;
 }
 
 .textSection{
@@ -154,5 +178,21 @@ footer a{
     }
     .textSection{
         padding: 38px;
+    }
+}
+@media (width<850px) {
+    .nav{
+        gap: 20px;
+        overflow: hidden;
+    }
+    .nav a {
+        font-size: 18px;
+    }
+    .nav::after{
+        border-radius: 0px;
+        top: 49px
+    }
+    .img-description {
+        font-size: 2.5vw;
     }
 }
